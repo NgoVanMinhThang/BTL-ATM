@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1439311937 source:c:\users\minh thang\downloads\atmsimulation-master\atmsimulation-master\dulieunganhang.cpp
+	"DuLieuNganHang.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1439311937 c:\users\minh thang\downloads\atmsimulation-master\atmsimulation-master\dulieunganhang.h
+
+1439311937 source:c:\users\minh thang\downloads\atmsimulation-master\atmsimulation-master\giaodich.cpp
+	"TaiKhoan.h"
+	"PhanCung.h"
+	"DuLieuNganHang.h"
+	<iostream>
+	<fstream>
+	<ctime>
+	<conio.h>
+	<cstring>
+	<windows.h>
+	"GiaoDich.h"
+	"Tien.h"
+	"HoaDon.h"
+
+1439311937 c:\users\minh thang\downloads\atmsimulation-master\atmsimulation-master\taikhoan.h
+
+1439311937 c:\users\minh thang\downloads\atmsimulation-master\atmsimulation-master\phancung.h
+	"TaiKhoan.h"
+
+1439311937 c:\users\minh thang\downloads\atmsimulation-master\atmsimulation-master\giaodich.h
+	"TaiKhoan.h"
+	<iostream>
+	<vector>
+
+1439311937 c:\users\minh thang\downloads\atmsimulation-master\atmsimulation-master\tien.h
+	"TaiKhoan.h"
+	<iostream>
+
+1439311937 c:\users\minh thang\downloads\atmsimulation-master\atmsimulation-master\hoadon.h
+	"TaiKhoan.h"
+
+1439311937 source:c:\users\minh thang\downloads\atmsimulation-master\atmsimulation-master\hoadon.cpp
+	"HoaDon.h"
+
+1584205420 source:c:\users\minh thang\downloads\atmsimulation-master\atmsimulation-master\main.cpp
+	<iostream>
+
+1439311937 source:c:\users\minh thang\downloads\atmsimulation-master\atmsimulation-master\mrt.cpp
+	"MRT.h"
+	<conio.h>
+	"PhanCung.h"
+	"DuLieuNganHang.h"
+	"PhanCung.h"
+	<windows.h>
+	<iostream>
+
+1439311937 c:\users\minh thang\downloads\atmsimulation-master\atmsimulation-master\mrt.h
+
+1439311937 source:c:\users\minh thang\downloads\atmsimulation-master\atmsimulation-master\nhatkygiaodichmrt.cpp
+
+1439311937 source:c:\users\minh thang\downloads\atmsimulation-master\atmsimulation-master\phancung.cpp
+	"PhanCung.h"
+	"TaiKhoan.h"
+	"GiaoDich.h"
+	"HoaDon.h"
+	"DuLieuNganHang.h"
+	"Tien.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<vector>
+
+1439311937 source:c:\users\minh thang\downloads\atmsimulation-master\atmsimulation-master\taikhoan.cpp
+	"TaiKhoan.h"
+	<fstream>
+	<iostream>
+	<conio.h>
+
+1439311937 source:c:\users\minh thang\downloads\atmsimulation-master\atmsimulation-master\tien.cpp
+	"Tien.h"
+	"TaiKhoan.h"
+	<iostream>
+	<conio.h>
+

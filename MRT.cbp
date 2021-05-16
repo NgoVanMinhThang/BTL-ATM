@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MRT" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="MRT" prefix_auto="1" extension_auto="1" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Unit filename="DuLieuNganHang.cpp" />
+		<Unit filename="DuLieuNganHang.h" />
+		<Unit filename="GiaoDich.cpp" />
+		<Unit filename="GiaoDich.h" />
+		<Unit filename="HoaDon.cpp" />
+		<Unit filename="HoaDon.h" />
+		<Unit filename="MRT.cpp" />
+		<Unit filename="MRT.h" />
+		<Unit filename="NhatKyGiaoDichMRT.cpp" />
+		<Unit filename="NhatKyGiaoDichMRT.h" />
+		<Unit filename="PhanCung.cpp" />
+		<Unit filename="PhanCung.h" />
+		<Unit filename="TaiKhoan.cpp" />
+		<Unit filename="TaiKhoan.h" />
+		<Unit filename="Tien.cpp" />
+		<Unit filename="Tien.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
